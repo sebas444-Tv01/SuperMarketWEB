@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|c:\\users\\sebastian\\source\\repos\\supermarketweb3\\supermarketweb3\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|solutionrelative:supermarketweb3\\pages\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|c:\\users\\sebastian\\source\\repos\\supermarketweb3\\supermarketweb3\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|solutionrelative:supermarketweb3\\pages\\categories\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|c:\\users\\sebastian\\source\\repos\\supermarketweb3\\supermarketweb3\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{909F3342-937B-4F65-8FE0-7E1ADFFD5C7F}|SuperMarketWEB3\\SuperMarketWEB3.csproj|solutionrelative:supermarketweb3\\pages\\categories\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -63,6 +71,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml.cs",
+              "RelativeToolTip": "SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T15:14:04.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "SuperMarketWEB3\\Pages\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T15:13:40.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Delete.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Delete.cshtml.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Delete.cshtml.cs",
@@ -70,12 +104,11 @@
               "RelativeToolTip": "SuperMarketWEB3\\Pages\\Categories\\Delete.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:10:14.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T15:10:14.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Delete.cshtml",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Delete.cshtml",
@@ -88,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "create.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\create.cshtml.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\create.cshtml.cs",
@@ -96,12 +129,11 @@
               "RelativeToolTip": "SuperMarketWEB3\\Pages\\Categories\\create.cshtml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T15:01:50.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T15:01:50.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "create.cshtml",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\create.cshtml",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\create.cshtml",
@@ -113,7 +145,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Index.cshtml.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Index.cshtml.cs",
@@ -125,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Pages\\Categories\\Index.cshtml",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Pages\\Categories\\Index.cshtml",
@@ -137,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\appsettings.Development.json",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\appsettings.Development.json",
@@ -149,7 +181,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\appsettings.json",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\appsettings.json",
@@ -161,7 +193,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "SupermarketContext.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Data\\SupermarketContext.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Data\\SupermarketContext.cs",
@@ -173,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Models\\Category.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Models\\Category.cs",
@@ -185,7 +217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Models\\Product.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Models\\Product.cs",
@@ -197,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\Program.cs",
               "RelativeDocumentMoniker": "SuperMarketWEB3\\Program.cs",
