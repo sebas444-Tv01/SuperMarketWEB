@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SuperMarketWEB3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4928a7e82af4aba8a51df67afa18c10b49a7f4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d60cfbc8b299e027ce90a1e409c0555502840c17")]
 [assembly: System.Reflection.AssemblyProductAttribute("SuperMarketWEB3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SuperMarketWEB3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
