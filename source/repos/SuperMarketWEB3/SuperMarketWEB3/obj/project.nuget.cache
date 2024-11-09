@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IxJO2Olwalk=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sebastian\\source\\repos\\SuperMarketWEB3\\SuperMarketWEB3\\SuperMarketWEB3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sebastian\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
